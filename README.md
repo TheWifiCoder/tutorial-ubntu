@@ -1,4 +1,4 @@
-# UBUNTU INSTALLASJON
+# GJENNOPRETTNING AV SERVER 
 
 ## tutorial om hvordan vi setter opp
 
