@@ -1,1 +1,11 @@
-"# tutorial-ubntu" 
+# UBUNTU INSTALLASJON
+
+## tutorial om hvordan vi setter opp
+
+### - rapsberry pi
+### - installere SSH
+### - sende filer
+### - åpne porter
+### - installere ubuntu
+### - installere mariadb
+### - 
